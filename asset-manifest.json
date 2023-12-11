@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weather-app/static/css/main.b8679a2c.css",
+    "main.js": "/Weather-app/static/js/main.7bb10101.js",
+    "static/js/787.aafc6230.chunk.js": "/Weather-app/static/js/787.aafc6230.chunk.js",
+    "static/media/geographic-stock-google-pixel-wallpaper-preview.jpg": "/Weather-app/static/media/geographic-stock-google-pixel-wallpaper-preview.c79f3ab291a9cb057320.jpg",
+    "index.html": "/Weather-app/index.html",
+    "main.b8679a2c.css.map": "/Weather-app/static/css/main.b8679a2c.css.map",
+    "main.7bb10101.js.map": "/Weather-app/static/js/main.7bb10101.js.map",
+    "787.aafc6230.chunk.js.map": "/Weather-app/static/js/787.aafc6230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8679a2c.css",
+    "static/js/main.7bb10101.js"
+  ]
+}
